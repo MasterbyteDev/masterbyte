@@ -1,0 +1,2 @@
+# masterbyte
+Decentralized digital currency
